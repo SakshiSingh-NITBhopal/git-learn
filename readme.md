@@ -1,5 +1,5 @@
 #This is my heading
 
-'''javascript
+```javascript
 console.log("Hello world");
-'''
+```
